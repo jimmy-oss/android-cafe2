@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My movie cafe!</string>
+    <string name="myrestaurant">!!welcome to my movie cafe!!</string>
+    <string name="find_restaurants">Click me!</string>
+    <string name="todo">TODO</string>
+    <string name="enter_zip_code">Enter Your movie choice!</string>
+    <string name="movies_near">Here you can choose your favourite movie and series enjoy!!</string>
+    <string name="one_cuisine_type">One Cuisine Type</string>
+    <string name="rating">Rating</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_123_sw_best_ever_ave_portland_oregon_97222">123 SW Best Ever Ave. Portland, Oregon, 97222</string>
+    <string name="_503_223_1282">(503) 223-1282</string>
+    <string name="view_on_yelp">View on Yelp</string>
+    <string name="brunch_american">Brunch, American</string>
+    <string name="_4_5_5">4.5/5</string>
+    <string name="save_the_cafe">Save The Cafe</string>
+
+
+
+</resources>
